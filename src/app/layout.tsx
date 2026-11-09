@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   robots: { index: false, follow: false },
 };
 
+
 export const viewport: Viewport = {
   themeColor: "#2E4A2B",
   width: "device-width",
